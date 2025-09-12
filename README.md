@@ -6,7 +6,9 @@ Understanding generative models requires more than just calling APIs or using pr
 
 ## Course Materials
 
-**[Lecture Slides](https://slides.com/carolcuesta/heidelberg_summer_school)**
+**[Lecture Slides](https://slides.com/carolcuesta/heidelberg_summer_school)** 
+
+You can also find a pdf version on the repo, but not that some of the videos are missing.
 
 ## Notebooks & Learning Objectives
 
