@@ -21,7 +21,7 @@ Build a continuous-time normalizing flow from scratch using PyTorch to solve the
 ### 3. **Flow Matching** (`03_flow_matching.ipynb`)
 Implement flow matching for the same two moons problem, comparing this approach to CNFs. **Key Learning:** Understand the flow matching objective, and appreciate the computational advantages over likelihood-based training.
 
-### 4. **Astrophysics Application** (`04_astro_example.ipynb`) ⚠️ *GPU Required*
+### 4. **Astrophysics Application** (`04_galaxy_images.ipynb`) ⚠️ *GPU Required*
 Apply flow matching to a realistic scientific problem: generating galaxy images. This exercise demonstrates how generative models scale to high-dimensional, real-world data. **Key Learning:** Handle complex datasets, implement conditional generation.
 
 ## Getting Help
